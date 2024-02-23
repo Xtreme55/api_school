@@ -1,2 +1,2 @@
-# api_school
-backend de sistema escolar
+# sistema escolar
+backend y frontend de sistema escolar
